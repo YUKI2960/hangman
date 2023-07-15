@@ -54,3 +54,5 @@ class Game:
 
 game = Game()
 game.play_game()
+
+### これは作成途中です、更新が必要です。
